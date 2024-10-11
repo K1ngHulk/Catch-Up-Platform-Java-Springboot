@@ -2,8 +2,8 @@
 
 Proyecto integrado por:
 - Omar Harold Rivera Ticllauri *u202214214@upc.edu.pe*
-- Mathias Javier Murillo
-- Eduard Gedeon Travezaño Patiño
+- Mathias Javier Murillo *u202022211@upc.edu.pe*
+- Eduard Gedeon Travezaño Patiño *u20211a789@upc.edu.pe*
 
 ## Summary
 ### Español
